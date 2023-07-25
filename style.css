@@ -17,9 +17,9 @@
 }
 .planet-2 {
   position: absolute;
-    top: 79px;
-    left: 114px;
-    z-index: 2;
+  top: 79px;
+  left: 114px;
+  z-index: 2;
 }
 .planet-3 {
   position: absolute;
@@ -29,20 +29,18 @@
 }
 .spaceship {
   position: absolute;
-    top: 167px;
-    left: 182px;
-    z-index: 2;
-
+  top: 167px;
+  left: 182px;
+  z-index: 2;
 }
 .ufo {
   position: absolute;
-    top: 297px;
-    left: 140px;
-    z-index: 3;
+  top: 297px;
+  left: 140px;
+  z-index: 3;
 }
 .asteroid {
   position: absolute;
   top: 74px;
   left: 434px;
 }
-
